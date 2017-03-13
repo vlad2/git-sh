@@ -72,8 +72,8 @@ aliases defined in `~/.bashrc` are also available:
     new!mygreatrepo> ls -l
     new!mygreatrepo> vim somefile
 
-*IMPORTANT: `rm`, `mv`, and `diff` are aliased to their git counterparts.  To use system versions,
-run `command(1)` (e.g., `command rm`) or qualify the command (e.g. `/bin/rm`).*
+*IMPORTANT: `diff` is aliased to its git counterpart.  To use system versions,
+run `command(1)` (e.g., `command diff`) or qualify the command (e.g. `/bin/diff`).*
 
 Prompt
 ------
