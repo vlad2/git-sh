@@ -196,4 +196,4 @@ are also available.
 ## SEE ALSO
 
 bash(1), git(1), git-config(1),
-<http://github.com/rtomayko/git-sh>
+<http://github.com/vlad2/git-sh>
