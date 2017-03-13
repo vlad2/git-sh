@@ -145,6 +145,7 @@ _git_cmd_cfg=(
 	'tar-tree       alias'
 	'var            alias'
 	'whatchanged    alias  logcmpl'
+	'worktree       alias  stdcmpl'
 )
 
 for cfg in "${_git_cmd_cfg[@]}" ; do
