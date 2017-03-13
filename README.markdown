@@ -6,6 +6,8 @@ Fork information
 
     - mv and rm aren't aliased to git command
     - improved documentation: color.sh.upstream-state is documented in README.markdown
+    - add 'git flow' support from https://github.com/taupecat/git-sh/commit/9f696085822415453967e82d8825e917506c328b
+    - add 'git worktree' support from https://github.com/selivan/git-sh
     - this README is updated (to show this Fork information section, also the Installation points to this repository)
 
 git-sh
