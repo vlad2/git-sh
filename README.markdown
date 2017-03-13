@@ -1,7 +1,18 @@
+Fork information
+===================
+    This is a fork from the original git-sh repository at https://github.com/rtomayko/git-sh
+
+    What this fork has different is:
+
+    - mv and rm aren't aliased to git command
+    - improved documentation: color.sh.upstream-state is documented in README.markdown
+    - this README is updated (to show this Fork information section, also the Installation points to this repository)
+
 git-sh
 ======
 
 A customized bash shell suitable for git work.
+
 
 The `git-sh` command starts an interactive bash shell tweaked for heavy git
 interaction:
@@ -24,7 +35,7 @@ Installation
 
 Install the most recent available version under `/usr/local`:
 
-    $ git clone git://github.com/rtomayko/git-sh.git
+    $ git clone git://github.com/vlad2/git-sh.git
     $ cd git-sh
     $ make
     $ sudo make install
