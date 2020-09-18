@@ -88,6 +88,7 @@ _git_cmd_cfg=(
 	'bundle                stdcmpl'
 	'cat-file       alias'
 	'checkout       alias  stdcmpl'
+	'check-ignore   alias'
 	'cherry         alias  stdcmpl'
 	'cherry-pick    alias  stdcmpl'
 	'clean          alias'
