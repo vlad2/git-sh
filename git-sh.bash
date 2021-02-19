@@ -144,6 +144,7 @@ _git_cmd_cfg=(
 	'submodule      alias  stdcmpl'
 	'svn            alias  stdcmpl'
 	'symbolic-ref   alias'
+	'switch         alias'
 	'tag            alias  stdcmpl'
 	'tar-tree       alias'
 	'var            alias'

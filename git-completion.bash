@@ -2301,6 +2301,16 @@ _git_svn ()
 	fi
 }
 
+_git_switch ()
+{
+	local cur="${COMP_WORDS[COMP_CWORD]}"
+	case "$cur" in
+	*)
+		__gitcomp "$(__git_refs)"
+		;;
+	esac
+}
+
 _git_tag ()
 {
 	local i c=1 f=0
