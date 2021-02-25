@@ -129,6 +129,7 @@ _git_cmd_cfg=(
 	'repo-config    alias'
 	'request-pull   alias'
 	'reset          alias  stdcmpl'
+	'restore        alias'
 	'rev-list       alias'
 	'rev-parse      alias'
 	'revert         alias'
